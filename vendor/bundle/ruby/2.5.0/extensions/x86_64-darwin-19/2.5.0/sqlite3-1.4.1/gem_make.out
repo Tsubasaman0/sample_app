@@ -1,5 +1,5 @@
 current directory: /Users/tsubasa/local/sample_app/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.4.1/ext/sqlite3
-/Users/tsubasa/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20200630-46202-1jfp0si.rb extconf.rb
+/Users/tsubasa/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20200630-36204-a4eg6r.rb extconf.rb
 checking for sqlite3.h... yes
 checking for pthread_create() in -lpthread... yes
 checking for -ldl... yes
@@ -68,4 +68,4 @@ ld: warning: directory not found for option '-L/usr/local/Cellar/sqlite/3.32.1/l
 
 current directory: /Users/tsubasa/local/sample_app/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.4.1/ext/sqlite3
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 sqlite3_native.bundle ./.gem.20200630-46202-1atq68q/sqlite3
+/usr/bin/install -c -m 0755 sqlite3_native.bundle ./.gem.20200630-36204-1tu7sb2/sqlite3
